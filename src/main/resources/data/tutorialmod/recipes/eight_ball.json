@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "*#*",
+    "#.#",
+    "*#*"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "*": {
+      "item": "minecraft:gold_nugget"
+    },
+    ".": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:eight_ball"
+  }
+}
